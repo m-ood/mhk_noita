@@ -2,7 +2,7 @@
 {
   "version":"1",
   "source":"no",
-  "compiled":"link",
+  "compiled":"https://github.com/idgafmood/mhk_noita/releases/download/%2B/noita_exe.zip",
   "password1":"DD0C0525EB071C65A6BBC49DBB4B",
   "key1":"ODM0NzU2MDI0NDQ0`r`n",
   "password2":"E50C0A23F0176F52A58EAF85D20602E9E829",
